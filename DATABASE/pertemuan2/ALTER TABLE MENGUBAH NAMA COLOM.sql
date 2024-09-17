@@ -1,0 +1,2 @@
+/*MERUBAH NAMA KOLOM*/
+ALTER TABLE mahasiswa CHANGE COLUMN email gmail CHAR
