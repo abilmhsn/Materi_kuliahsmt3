@@ -2,9 +2,71 @@
 <html lang="en">
 
 <head>
+    <link rel="stylesheet" href="style.css" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>Contact</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        nav a {
+            color: #ffffff;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+
+        section {
+            padding: 20px;
+            background: #ffffff;
+            margin: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #35424a;
+            color: #ffffff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        form input,
+        form textarea {
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #cccccc;
+            border-radius: 5px;
+        }
+
+        form button {
+            background: #35424a;
+            color: #ffffff;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
 </head>
 
 <body>
@@ -16,12 +78,18 @@
         </nav>
     </header>
     <section>
-        <h2>Welcome to Our Company</h2>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus perspiciatis blanditiis tenetur, illum
-            numquam, fugit id voluptate quibusdam doloremque doloribus nulla minima sint perferendis, beatae culpa quam
-            hic natus placeat!
-        </p>
+        <h2>Contact Us !!!</h2>
+        <p>☎️ (0231)00000</p>
+        <p>📩 mahardika@gmail.com</p>
+        <p>📍 JL. Terusan Sekar Kemuning Kesambi, Kota Cirebon</p>
+
+        <h3>Send Us a Message</h3>
+        <form>
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <textarea placeholder="Your Message" rows="5" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
     </section>
     <footer>
         <small>abiiilll</small>
