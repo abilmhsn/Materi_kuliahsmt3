@@ -1,0 +1,185 @@
+LastSessions<|||>1<|||>Laragon.MySQL
+LastActiveSession<|||>1<|||>Laragon.MySQL
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,254
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+MainWinWidth<|||>3<|||>993
+MainWinHeight<|||>3<|||>525
+GroupTreeObjects<|||>3<|||>1
+MainWinMaximized<|||>3<|||>1
+ColWidths_frmTableEditor.listColumns<|||>1<|||>58,100,152,90,60,65,50,117,130,139,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>191,100,80,120
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>76,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,296
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+FileDialogEncoding_MainForm<|||>3<|||>0
+querymemoheight<|||>3<|||>386
+CreateDbCollation<|||>1<|||>utf8mb4_0900_ai_ci
+SQLFile0<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\thriftbill\6.sql
+SQLFile1<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\thriftbill\5.sql
+SQLFile2<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\thriftbill\4.sql
+SQLFile3<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\thriftbill\3.sql
+SQLFile4<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\thriftbill\2.sql
+SQLFile5<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\thriftbill\1.sql
+SQLFile6<|||>1<|||>C:\laragon\bin\heidisql\Backups\query-tab-2024-12-12_16-42-27-805.sql
+SQLFile7<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\PERTEMUAN13-14\event2.sql
+SQLFile8<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\PERTEMUAN13-14\event1.sql
+SQLFile9<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\PERTEMUAN13-14\implementasi 2.sql
+SQLFile10<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\PERTEMUAN13-14\triger2.sql
+SQLFile11<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\PERTEMUAN13-14\implementasi triger1.sql
+SQLFile12<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\PERTEMUAN13-14\triger1.sql
+SQLFile13<|||>1<|||>D:\Materi_kuliahsmt3\DATABASE\PERTEMUAN13-14\tbl.arsipbarang.sql
+Servers\Laragon.MySQL\SessionCreated<|||>1<|||>2022-09-09 20:36:07
+Servers\Laragon.MySQL\Host<|||>1<|||>127.0.0.1
+Servers\Laragon.MySQL\WindowsAuth<|||>3<|||>0
+Servers\Laragon.MySQL\CleartextPluginEnabled<|||>3<|||>0
+Servers\Laragon.MySQL\User<|||>1<|||>root
+Servers\Laragon.MySQL\Password<|||>1<|||>2
+Servers\Laragon.MySQL\LoginPrompt<|||>3<|||>0
+Servers\Laragon.MySQL\Port<|||>1<|||>3306
+Servers\Laragon.MySQL\NetType<|||>3<|||>0
+Servers\Laragon.MySQL\Compressed<|||>3<|||>0
+Servers\Laragon.MySQL\LocalTimeZone<|||>3<|||>0
+Servers\Laragon.MySQL\QueryTimeout<|||>3<|||>30
+Servers\Laragon.MySQL\KeepAlive<|||>3<|||>20
+Servers\Laragon.MySQL\FullTableStatus<|||>3<|||>1
+Servers\Laragon.MySQL\Databases<|||>1<|||>
+Servers\Laragon.MySQL\Library<|||>1<|||>libmysql.dll
+Servers\Laragon.MySQL\Comment<|||>1<|||>
+Servers\Laragon.MySQL\StartupScriptFilename<|||>1<|||>
+Servers\Laragon.MySQL\TreeBackground<|||>3<|||>536870911
+Servers\Laragon.MySQL\SshExecutable<|||>1<|||>plink.exe
+Servers\Laragon.MySQL\SSHtunnelHost<|||>1<|||>
+Servers\Laragon.MySQL\SSHtunnelHostPort<|||>3<|||>22
+Servers\Laragon.MySQL\SSHtunnelUser<|||>1<|||>
+Servers\Laragon.MySQL\SSHtunnelPassword<|||>1<|||>2
+Servers\Laragon.MySQL\SSHtunnelTimeout<|||>3<|||>4
+Servers\Laragon.MySQL\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Laragon.MySQL\SSHtunnelPort<|||>3<|||>3307
+Servers\Laragon.MySQL\SSL_Active<|||>3<|||>0
+Servers\Laragon.MySQL\SSL_Key<|||>1<|||>
+Servers\Laragon.MySQL\SSL_Cert<|||>1<|||>
+Servers\Laragon.MySQL\SSL_CA<|||>1<|||>
+Servers\Laragon.MySQL\SSL_Cipher<|||>1<|||>
+Servers\Laragon.MySQL\IgnoreDatabasePattern<|||>1<|||>
+Servers\Laragon.MySQL\LogFileDdl<|||>3<|||>0
+Servers\Laragon.MySQL\LogFileDml<|||>3<|||>0
+Servers\Laragon.MySQL\LogFilePath<|||>1<|||>C:\Users\Administrator\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Laragon.MySQL\RefusedCount<|||>3<|||>2
+Servers\Laragon.MySQL\ServerVersionFull<|||>1<|||>8.0.30 - MySQL Community Server - GPL
+Servers\Laragon.MySQL\ConnectCount<|||>3<|||>10
+Servers\Laragon.MySQL\ServerVersion<|||>3<|||>80030
+Servers\Laragon.MySQL\LastConnect<|||>1<|||>2024-12-26 00:43:25
+Servers\Laragon.MySQL\lastUsedDB<|||>1<|||>thrift
+Servers\Laragon.MySQL\QueryHistory\1<|||>1<|||>2024-12-12 16:42:44||16|CREATE DATABASE sikampus;
+Servers\Laragon.MySQL\QueryHistory\2<|||>1<|||>2024-12-12 16:42:57|sikampus|0|USE sikampus;
+Servers\Laragon.MySQL\QueryHistory\3<|||>1<|||>2024-12-12 16:44:24|sikampus|16|CREATE TABLE tbl_mahasiswa(<{{{><}}}>	nama VARCHAR(150) NOT NULL,<{{{><}}}>	nim VARCHAR(50) NOT NULL PRIMARY KEY,<{{{><}}}>	jurusan VARCHAR(50) NOT NULL);
+Servers\Laragon.MySQL\QueryHistory\4<|||>1<|||>2024-12-25 01:41:55||0|CREATE DATABASE thriftbill;
+Servers\Laragon.MySQL\QueryHistory\5<|||>1<|||>2024-12-25 01:43:09|thriftbill|0|USE thriftbill;
+Servers\Laragon.MySQL\QueryHistory\6<|||>1<|||>2024-12-25 01:47:30|thriftbill|15|CREATE TABLE users (<{{{><}}}>id_user INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>username VARCHAR(50) NOT NULL,<{{{><}}}>pasword VARCHAR(255) NOT NULL,<{{{><}}}>email VARCHAR(100) NOT NULL,<{{{><}}}>ROLE ENUM ('admin', 'costumer') NOT NULL <{{{><}}}>);
+Servers\Laragon.MySQL\QueryHistory\7<|||>1<|||>2024-12-25 01:59:35|thriftbill|16|CREATE TABLE products (<{{{><}}}>    id_product INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    product_name VARCHAR(100) NOT NULL,<{{{><}}}>    description TEXT,<{{{><}}}>    price DECIMAL(10, 2) NOT NULL,<{{{><}}}>    stock INT NOT NULL,<{{{><}}}>    image_url VARCHAR(255),<{{{><}}}>    category VARCHAR(50)<{{{><}}}>    );
+Servers\Laragon.MySQL\QueryHistory\8<|||>1<|||>2024-12-25 02:02:31|thriftbill|16|CREATE TABLE transactions (<{{{><}}}>    id_transaction INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    id_user INT NOT NULL,<{{{><}}}>    transaction_date DATETIME NOT NULL,<{{{><}}}>    total_amount DECIMAL(10, 2) NOT NULL,<{{{><}}}>    status ENUM('pending', 'completed', 'canceled') NOT NULL,<{{{><}}}>    FOREIGN KEY (id_user) REFERENCES users(id_user)<{{{><}}}>);
+Servers\Laragon.MySQL\QueryHistory\9<|||>1<|||>2024-12-25 02:02:37|thriftbill|15|CREATE TABLE order_items (<{{{><}}}>    id_order_item INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    id_transaction INT NOT NULL,<{{{><}}}>    id_product INT NOT NULL,<{{{><}}}>    quantity INT NOT NULL,<{{{><}}}>    subtotal DECIMAL(10, 2) NOT NULL,<{{{><}}}>    FOREIGN KEY (id_transaction) REFERENCES transactions(id_transaction),<{{{><}}}>    FOREIGN KEY (id_product) REFERENCES products(id_product)<{{{><}}}>    );
+Servers\Laragon.MySQL\QueryHistory\10<|||>1<|||>2024-12-26 00:43:59||0|CREATE DATABASE thrift
+Servers\Laragon.MySQL\QueryHistory\11<|||>1<|||>2024-12-26 01:10:40|thrift|16|CREATE TABLE users (<{{{><}}}>    user_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    username VARCHAR(255) NOT NULL,<{{{><}}}>    email VARCHAR(255) NOT NULL UNIQUE,<{{{><}}}>    password VARCHAR(255) NOT NULL,<{{{><}}}>    role ENUM('admin', 'customer') NOT NULL DEFAULT 'customer',<{{{><}}}>    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,<{{{><}}}>    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP<{{{><}}}>);<{{{><}}}>
+Servers\Laragon.MySQL\QueryHistory\12<|||>1<|||>2024-12-26 01:11:17|thrift|16|CREATE TABLE users (<{{{><}}}>    user_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    username VARCHAR(255) NOT NULL,<{{{><}}}>    email VARCHAR(255) NOT NULL UNIQUE,<{{{><}}}>    password VARCHAR(255) NOT NULL,<{{{><}}}>    role VARCHAR(50),<{{{><}}}>    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,<{{{><}}}>    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP<{{{><}}}>);<{{{><}}}>
+Servers\Laragon.MySQL\QueryHistory\13<|||>1<|||>2024-12-26 01:12:52|thrift|16|CREATE TABLE categories (<{{{><}}}>    category_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    name VARCHAR(255) NOT NULL,<{{{><}}}>    description TEXT<{{{><}}}>);<{{{><}}}>
+Servers\Laragon.MySQL\QueryHistory\14<|||>1<|||>2024-12-26 01:18:57|thrift|15|CREATE TABLE products (<{{{><}}}>product_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>NAME VARCHAR(50) NOT NULL,<{{{><}}}>DESCRIPTION TEXT,<{{{><}}}>price DECIMAL(10,2) NOT NULL,<{{{><}}}>quantity INT NOT NULL DEFAULT 0,<{{{><}}}>image_url VARCHAR (50),<{{{><}}}>category_id INT,<{{{><}}}>created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,<{{{><}}}>updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,<{{{><}}}>FOREIGN KEY (category_id) REFERENCES categories(category_id)<{{{><}}}>);
+Servers\Laragon.MySQL\QueryHistory\15<|||>1<|||>2024-12-26 01:19:32|thrift|16|CREATE TABLE orders (<{{{><}}}>    order_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    user_id INT NOT NULL,<{{{><}}}>    total_price DECIMAL(10, 2) NOT NULL,<{{{><}}}>    status ENUM('pending', 'shipped', 'delivered', 'cancelled') NOT NULL DEFAULT 'pending',<{{{><}}}>    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,<{{{><}}}>    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,<{{{><}}}>    FOREIGN KEY (user_id) REFERENCES users(user_id)<{{{><}}}>);<{{{><}}}>
+Servers\Laragon.MySQL\QueryHistory\16<|||>1<|||>2024-12-26 01:20:12|thrift|16|CREATE TABLE order_items (<{{{><}}}>    order_item_id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    order_id INT NOT NULL,<{{{><}}}>    product_id INT NOT NULL,<{{{><}}}>    quantity INT NOT NULL,<{{{><}}}>    price DECIMAL(10, 2) NOT NULL,<{{{><}}}>    FOREIGN KEY (order_id) REFERENCES orders(order_id),<{{{><}}}>    FOREIGN KEY (product_id) REFERENCES products(product_id)<{{{><}}}>);<{{{><}}}>
+Servers\Laragon.MySQL\QueryHistory\17<|||>1<|||>2024-12-26 02:09:39|thrift|0|SELECT<{{{><}}}>    p.name AS product_name,<{{{><}}}>    SUM(oi.quantity) AS total_quantity_sold,<{{{><}}}>    SUM(oi.quantity * p.price) AS total_sales<{{{><}}}>FROM order_items oi<{{{><}}}>JOIN products p ON oi.product_id = p.product_id<{{{><}}}>GROUP BY p.product_id<{{{><}}}>ORDER BY total_sales DESC;<{{{><}}}>
+Servers\Laragon.MySQL\QueryHistory\18<|||>1<|||>2024-12-26 02:10:50|thrift|16|SELECT<{{{><}}}>    p.name AS product_name,<{{{><}}}>    p.price,<{{{><}}}>    c.name AS category_name<{{{><}}}>FROM products p<{{{><}}}>JOIN categories c ON p.category_id = c.category_id<{{{><}}}>WHERE c.name = 'Pakaian' AND p.price > 100<{{{><}}}>ORDER BY p.price DESC;<{{{><}}}>
+Servers\Laragon.MySQL\QueryHistory\19<|||>1<|||>2024-12-26 02:11:38|thrift|0|SELECT<{{{><}}}>    p.product_id,<{{{><}}}>    p.name AS product_name,<{{{><}}}>    p.price<{{{><}}}>FROM products p<{{{><}}}>WHERE p.product_id NOT IN (<{{{><}}}>    SELECT oi.product_id<{{{><}}}>    FROM order_items oi<{{{><}}}>    GROUP BY oi.product_id<{{{><}}}>);<{{{><}}}>
+Servers\Laragon.MySQL\QueryHistory\20<|||>1<|||>2024-12-26 02:12:22|thrift|16|DELIMITER $$<{{{><}}}><{{{><}}}>CREATE PROCEDURE AddNewOrder(<{{{><}}}>    IN p_user_id INT,<{{{><}}}>    IN p_total_price DECIMAL(10,2),<{{{><}}}>    IN p_product_id INT,<{{{><}}}>    IN p_quantity INT<{{{><}}}>)<{{{><}}}>BEGIN<{{{><}}}>    DECLARE new_order_id INT;<{{{><}}}><{{{><}}}>    -- Mulai transaksi<{{{><}}}>    START TRANSACTION;<{{{><}}}><{{{><}}}>    -- Menambahkan entri ke tabel orders<{{{><}}}>    INSERT INTO orders (user_id, total_price)<{{{><}}}>    VALUES (p_user_id, p_total_price);<{{{><}}}><{{{><}}}>    -- Mengambil ID pesanan yang baru saja dimasukkan<{{{><}}}>    SET new_order_id = LAST_INSERT_ID();<{{{><}}}><{{{><}}}>    -- Menambahkan entri ke tabel order_items<{{{><}}}>    INSERT INTO order_items (order_id, product_id, quantity)<{{{><}}}>    VALUES (new_order_id, p_product_id, p_quantity);<{{{><}}}><{{{><}}}>    -- Komit transaksi<{{{><}}}>    COMMIT;<{{{><}}}>END $$<{{{><}}}><{{{><}}}>DELIMITER ;<{{{><}}}>
+Servers\Laragon.MySQL\QueryHistory\21<|||>1<|||>2024-12-26 02:13:04|thrift|16|DELIMITER $$<{{{><}}}><{{{><}}}>CREATE TRIGGER update_order_total AFTER INSERT ON order_items<{{{><}}}>FOR EACH ROW<{{{><}}}>BEGIN<{{{><}}}>    DECLARE new_total DECIMAL(10,2);<{{{><}}}><{{{><}}}>    -- Menghitung ulang total harga untuk pesanan terkait<{{{><}}}>    SELECT SUM(oi.quantity * p.price) INTO new_total<{{{><}}}>    FROM order_items oi<{{{><}}}>    JOIN products p ON oi.product_id = p.product_id<{{{><}}}>    WHERE oi.order_id = NEW.order_id;<{{{><}}}><{{{><}}}>    -- Memperbarui total harga pesanan di tabel orders<{{{><}}}>    UPDATE orders<{{{><}}}>    SET total_price = new_total<{{{><}}}>    WHERE order_id = NEW.order_id;<{{{><}}}>END $$<{{{><}}}><{{{><}}}>DELIMITER ;<{{{><}}}>
+Servers\Laragon.MySQL\QueryHistory\22<|||>1<|||>2024-12-26 02:13:29|thrift|0|DELIMITER $$<{{{><}}}><{{{><}}}>CREATE EVENT delete_old_orders<{{{><}}}>ON SCHEDULE EVERY 1 DAY<{{{><}}}>DO<{{{><}}}>BEGIN<{{{><}}}>    DELETE FROM orders<{{{><}}}>    WHERE order_date < NOW() - INTERVAL 30 DAY<{{{><}}}>    AND status = 'Pending';<{{{><}}}>END $$<{{{><}}}><{{{><}}}>DELIMITER ;<{{{><}}}>
+Servers\penualan\SessionCreated<|||>1<|||>2024-12-17 09:57:22
+Servers\penualan\Host<|||>1<|||>127.0.0.1
+Servers\penualan\WindowsAuth<|||>3<|||>0
+Servers\penualan\CleartextPluginEnabled<|||>3<|||>0
+Servers\penualan\User<|||>1<|||>root
+Servers\penualan\Password<|||>1<|||>2
+Servers\penualan\LoginPrompt<|||>3<|||>0
+Servers\penualan\Port<|||>1<|||>3306
+Servers\penualan\NetType<|||>3<|||>0
+Servers\penualan\Compressed<|||>3<|||>0
+Servers\penualan\LocalTimeZone<|||>3<|||>0
+Servers\penualan\QueryTimeout<|||>3<|||>30
+Servers\penualan\KeepAlive<|||>3<|||>20
+Servers\penualan\FullTableStatus<|||>3<|||>1
+Servers\penualan\Databases<|||>1<|||>
+Servers\penualan\Library<|||>1<|||>libmariadb.dll
+Servers\penualan\Comment<|||>1<|||>
+Servers\penualan\StartupScriptFilename<|||>1<|||>
+Servers\penualan\TreeBackground<|||>3<|||>536870911
+Servers\penualan\SshExecutable<|||>1<|||>
+Servers\penualan\SSHtunnelHost<|||>1<|||>
+Servers\penualan\SSHtunnelHostPort<|||>3<|||>22
+Servers\penualan\SSHtunnelUser<|||>1<|||>
+Servers\penualan\SSHtunnelPassword<|||>1<|||>7
+Servers\penualan\SSHtunnelTimeout<|||>3<|||>4
+Servers\penualan\SSHtunnelPrivateKey<|||>1<|||>
+Servers\penualan\SSHtunnelPort<|||>3<|||>3307
+Servers\penualan\SSL_Active<|||>3<|||>0
+Servers\penualan\SSL_Key<|||>1<|||>
+Servers\penualan\SSL_Cert<|||>1<|||>
+Servers\penualan\SSL_CA<|||>1<|||>
+Servers\penualan\SSL_Cipher<|||>1<|||>
+Servers\penualan\IgnoreDatabasePattern<|||>1<|||>
+Servers\penualan\LogFileDdl<|||>3<|||>0
+Servers\penualan\LogFileDml<|||>3<|||>0
+Servers\penualan\LogFilePath<|||>1<|||>C:\Users\ASUS\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\penualan\ServerVersionFull<|||>1<|||>8.0.30 - MySQL Community Server - GPL
+Servers\penualan\ConnectCount<|||>3<|||>7
+Servers\penualan\ServerVersion<|||>3<|||>80030
+Servers\penualan\LastConnect<|||>1<|||>2024-12-25 01:36:00
+Servers\penualan\lastUsedDB<|||>1<|||>
+Servers\penualan\QueryHistory\1<|||>1<|||>2024-12-17 10:23:39|penjualan|16|SET foreign_key_checks = 0;<{{{><}}}>DELETE FROM tbl_barang WHERE kode_barang = 'BRG_001';<{{{><}}}>SELECT * FROM tbl_arsip_barang;
+Servers\penualan\QueryHistory\2<|||>1<|||>2024-12-17 10:31:32|penjualan|47|-- Membuat Update Stok Otomatis di tbl_barang setelah ada transaksi di Tbl_detailPengadaan<{{{><}}}>DELIMITER $$<{{{><}}}>CREATE TRIGGER after_insert_pengadaan<{{{><}}}>AFTER INSERT ON tbl_detail_pengadaan<{{{><}}}>FOR EACH ROW<{{{><}}}>BEGIN<{{{><}}}>    -- Update stok barang di tbl_barang<{{{><}}}>    UPDATE tbl_barang<{{{><}}}>    SET stok = stok + NEW.jumlah, <{{{><}}}>    harga_pengadaan = NEW.total_harga/(NEW.jumlah*40)<{{{><}}}>    WHERE kode_barang = NEW.kode_barang;<{{{><}}}>END$$<{{{><}}}><{{{><}}}>DELIMITER ;
+Servers\penualan\QueryHistory\3<|||>1<|||>2024-12-17 10:36:42|penjualan|0|#Implementasi Trigger After insert pengadaan <{{{><}}}>INSERT INTO tbl_detail_pengadaan VALUES (<{{{><}}}>"PG002", "BRG_003", 10, 1000000);
+Servers\penualan\QueryHistory\4<|||>1<|||>2024-12-17 10:44:27|penjualan|63|SHOW VARIABLES LIKE 'event_scheduler';
+Servers\penualan\QueryHistory\5<|||>1<|||>2024-12-17 10:48:49|penjualan|31|CREATE EVENT hapus_transaksi_lama<{{{><}}}>ON SCHEDULE EVERY 1 DAY<{{{><}}}>DO<{{{><}}}>    DELETE FROM tbl_faktur WHERE tgl_transaksi < NOW() - INTERVAL 10 YEAR;
+Servers\penualan\QueryHistory\6<|||>1<|||>2024-12-17 10:58:25|penjualan|16|CREATE EVENT hapus_transaksi_lama<{{{><}}}>ON SCHEDULE EVERY 1 MINUTE<{{{><}}}>DO<{{{><}}}>    DELETE FROM tbl_faktur WHERE tgl_transaksi < NOW() - INTERVAL 1 YEAR;
+Servers\penualan\QueryHistory\8<|||>1<|||>2024-12-17 11:03:41|penjualan|0|CREATE EVENT hapus_transaksi_lama<{{{><}}}>ON SCHEDULE EVERY 1 MINUTE<{{{><}}}>DO<{{{><}}}>    DELETE FROM tbl_faktur WHERE tanggal < NOW() - INTERVAL 1 YEAR;
+Servers\penualan\QueryHistory\7<|||>1<|||>2024-12-17 11:20:18|penjualan|93|-- Melakukan Back-up Secara Berkala<{{{><}}}>CREATE EVENT backup_barang<{{{><}}}>ON SCHEDULE EVERY 1 WEEK<{{{><}}}>DO<{{{><}}}>    INSERT INTO tbl_backup_barang SELECT * FROM tbl_barang;<{{{><}}}><{{{><}}}>-- Membuat Tabel tbl_backup_barang<{{{><}}}>CREATE TABLE tbl_backup_barang (<{{{><}}}>  kode_barang  varchar(20) NOT NULL,<{{{><}}}>  nama_barang  varchar(50) DEFAULT NULL,<{{{><}}}>    harga_jual  int DEFAULT NULL,<{{{><}}}>   stok  int DEFAULT NULL,<{{{><}}}>   harga_pengadaan  int DEFAULT NULL,<{{{><}}}>   tgl_backup TIMESTAMP DEFAULT CURRENT_TIMESTAMP<{{{><}}}>)
+Servers\penualan\QueryHistory\9<|||>1<|||>2024-12-17 11:24:06|penjualan|16|-- Membuat Tabel tbl_backup_barang<{{{><}}}>CREATE TABLE tbl_backup_barang (<{{{><}}}>  kode_barang  varchar(20) NOT NULL,<{{{><}}}>  nama_barang  varchar(50) DEFAULT NULL,<{{{><}}}>    harga_jual  int DEFAULT NULL,<{{{><}}}>   stok  int DEFAULT NULL,<{{{><}}}>   harga_pengadaan  int DEFAULT NULL,<{{{><}}}>   tgl_backup TIMESTAMP DEFAULT CURRENT_TIMESTAMP<{{{><}}}>)
+Servers\penualan\QueryHistory\10<|||>1<|||>2024-12-17 11:26:07|penjualan|31|-- Melakukan Back-up Secara Berkala 1<{{{><}}}>CREATE EVENT backup_barang<{{{><}}}>ON SCHEDULE EVERY 1 WEEK<{{{><}}}>DO<{{{><}}}>    INSERT INTO tbl_backup_barang SELECT * FROM tbl_barang;<{{{><}}}><{{{><}}}>-- Membuat Tabel tbl_backup_barang 2<{{{><}}}>CREATE TABLE tbl_backup_barang (<{{{><}}}>  kode_barang  varchar(20) NOT NULL,<{{{><}}}>  nama_barang  varchar(50) DEFAULT NULL,<{{{><}}}>    harga_jual  int DEFAULT NULL,<{{{><}}}>   stok  int DEFAULT NULL,<{{{><}}}>   harga_pengadaan  int DEFAULT NULL,<{{{><}}}>   tgl_backup TIMESTAMP DEFAULT CURRENT_TIMESTAMP<{{{><}}}>)
+Servers\penualan\QueryHistory\11<|||>1<|||>2024-12-23 04:48:35|penjualan|47|-- Membuat database<{{{><}}}>CREATE DATABASE UserLoginDB;<{{{><}}}><{{{><}}}>-- Menggunakan database yang dibuat<{{{><}}}>USE UserLoginDB;<{{{><}}}><{{{><}}}>-- Membuat tabel untuk menyimpan data login<{{{><}}}>CREATE TABLE Users (<{{{><}}}>    UserID INT AUTO_INCREMENT PRIMARY KEY, -- ID unik untuk setiap pengguna<{{{><}}}>    Username VARCHAR(50) NOT NULL UNIQUE, -- Username unik<{{{><}}}>    Email VARCHAR(100) NOT NULL UNIQUE, -- Email unik<{{{><}}}>    PasswordHash VARCHAR(255) NOT NULL, -- Password yang sudah di-hash<{{{><}}}>    CreatedAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP -- Waktu pembuatan akun<{{{><}}}>);<{{{><}}}>
+Servers\penualan\QueryHistory\12<|||>1<|||>2024-12-23 05:05:51|userlogindb|46|CREATE TABLE Transactions (<{{{><}}}>    TransactionID INT AUTO_INCREMENT PRIMARY KEY, -- ID unik untuk transaksi<{{{><}}}>    UserID INT NOT NULL, -- ID pengguna yang melakukan transaksi<{{{><}}}>    TotalAmount DECIMAL(10, 2) NOT NULL, -- Total jumlah pembayaran<{{{><}}}>    TransactionDate TIMESTAMP DEFAULT CURRENT_TIMESTAMP, -- Tanggal transaksi<{{{><}}}>    FOREIGN KEY (UserID) REFERENCES Users(UserID) -- Relasi ke tabel Users<{{{><}}}>);<{{{><}}}>

@@ -1,0 +1,7 @@
+CREATE TABLE users (
+id_user INT AUTO_INCREMENT PRIMARY KEY,
+username VARCHAR(50) NOT NULL,
+pasword VARCHAR(255) NOT NULL,
+email VARCHAR(100) NOT NULL,
+ROLE ENUM ('admin', 'costumer') NOT NULL 
+);
